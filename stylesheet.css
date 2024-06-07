@@ -1,0 +1,103 @@
+.gradient-background {
+  background: linear-gradient(300deg, #606364, #d2c5c7, #bcb6b6);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+  
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+  
+}
+
+.navbar a{
+  font-family: "Libre Baskerville" !important;
+}
+
+
+
+
+  
+h1{
+  text-align: left;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 500;
+    font-style: bold;
+    
+}
+
+h2{
+  text-align: left;
+  font-family:  "Playfair Display SC", serif;
+  text-decoration: overline;
+  letter-spacing: 0.4em;
+}
+
+.image{
+  border-radius: 50%;
+}
+
+
+
+.logo{
+  border-radius: 30%;
+}
+p{
+  text-align: left;
+  font-family:  "Playfair Display SC", serif;
+}
+.sweet{
+  color: white;
+  text-decoration: line-through;
+  font-family:  "Libre Baskerville" , serif;
+}
+
+
+.eat{
+  background-color: #d2c5c7;
+}
+
+h3{
+  font-family: "Libre Baskerville" , serif; ;
+}
+
+
+.imagee{
+  border-radius: 50%;
+  border-color: black;
+  border: 5px solid black;
+}
+
+.prog{
+  letter-spacing: 0.07em;
+}
+
+
+h3{
+  font-family: "Libre Baskerville" , serif; 
+  text-transform: uppercase;
+}
+
+.html{
+  border: solid white;
+  border-radius: 50%;
+}
+
+.swear{
+  text-decoration-line: underline;
+}
+
+
+
+
+
+
+
